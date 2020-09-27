@@ -1,3 +1,3 @@
-#GBot
-[b] Kullanımı ve sorumluluğu tamamen size aittir. [/b]
-[b] Licensed by MIT [/b]
+# GBot
+# >*Kullanımı ve sorumluluğu tamamen size aittir. *
+# **Licensed by MIT **
